@@ -1,9 +1,5 @@
 # Responsive Parallax Drag-slider With Transparent Letters
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mrspok407/pen/bwLwvL](https://codepen.io/mrspok407/pen/bwLwvL).
-
-Doesn't work in IE.
-
 The thing is pretty easy customizable.
 You can safely change font, font size, font color, animation speed. The first letter of a new string in array in JS will appear on a new slide.
 
